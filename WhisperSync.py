@@ -1,4 +1,4 @@
-"""WhisperSync. Pulls Amazon Kindle's most commonly highlighted passages/
+"""WhisperSync. Pulls Amazon Kindle's most commonly highlighted passages
 Usage:
   WhisperSync <book>
 """
